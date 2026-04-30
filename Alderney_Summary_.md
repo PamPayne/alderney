@@ -1,11 +1,2 @@
----
-country: Alderney
-document_name: Alderney Summary
-source_file: Alderney Summary .docx
-extracted_date: 2026-04-30
-jurisdiction: Alderney
----
+> **Source:** [Alderney Summary .docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Alderney/4. Audits/Alderney Summary .docx)
 
-# Alderney Summary
-
-DOCX extraction error: No binary data — DOCX extraction unavailable
