@@ -2,7 +2,7 @@
 country: Alderney
 document_name: Alderney Summary
 source_file: Alderney Summary .docx
-extracted_date: 2026-04-29
+extracted_date: 2026-04-30
 jurisdiction: Alderney
 ---
 
