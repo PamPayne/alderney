@@ -4,9 +4,7 @@ Markdown versions of regulatory documents for Alderney, sourced from the DBNSA R
 
 ## Documents
 
-| Document | Source File |
-|---|---|
-| [Alderney Summary](Alderney_Summary_.md) | Alderney Summary .docx |
+*Document index will be updated once files are processed.*
 
 ## Source
 
